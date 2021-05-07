@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import './assets/css/style.css';
 
-// import {Container, NavBar, Button } from 'react-bootstrap';
 
 import Navbar from "./components/navbar.component"
 import RecipeList from "./components/recipes-list.component";
