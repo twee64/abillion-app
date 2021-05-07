@@ -11,7 +11,7 @@ import reportWebVitals from './reportWebVitals';
 //   </React.StrictMode>,
 //   document.getElementById('root')
 // );
-
+                                           
 ReactDOM.render(<App />, document.getElementById("root"));
 
 
