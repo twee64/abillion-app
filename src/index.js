@@ -11,7 +11,7 @@ import reportWebVitals from './reportWebVitals';
 //   document.getElementById('root')
 // );
                                            
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('app'));
 
 
 // If you want to start measuring performance in your app, pass a function
